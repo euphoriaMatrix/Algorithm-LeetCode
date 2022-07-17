@@ -1,4 +1,4 @@
-package leetcode449;
+package leetcode.leetcode449;
 
 /**
  * @author xwfstart
